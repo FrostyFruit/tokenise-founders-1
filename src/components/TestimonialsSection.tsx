@@ -47,7 +47,7 @@ const TestimonialsSection: React.FC = () => {
       company: "Bitlayer"
     },
     {
-      quote: "The simulation capabilities alone are worth 10x the price.",
+      quote: "Tokenise positioned us best for successful investor conversations",
       author: "Chris Brady",
       title: "Founder",
       company: "Archipelago"
